@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": {
+      "FHBUHM4E42.com.kugou.shortvideoapp": {
+        "paths":[ "/svopenapp/*","/svlinks/svapp/*","/staticPub/mobile/svlinks/*" ]
+      },
+    }
+  }
+}

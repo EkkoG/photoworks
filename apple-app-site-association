@@ -7,8 +7,8 @@
                 "paths": [ "/svopenapp/*", "/svlinks/svapp/*"]
             },
             {
-                "appID": "W6FNNW78A4.com.kugou.fanxingappstore",
-                "paths": [ "/fxopenapp/*", "/staticPub/mobile/fxlinks/*"]
+                "appID": "W6FNNW78A4.com.kugou.shortvideoapp",
+                "paths": [ "/svopenapp/*", "/svlinks/svapp/*"]
             }
         ]
     }

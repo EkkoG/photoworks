@@ -1,10 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": {
-      "FHBUHM4E42.com.kugou.shortvideoapp": {
-        "paths":[ "/svopenapp/*","/svlinks/svapp/*","/staticPub/mobile/svlinks/*" ]
-      },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "W6FNNW78A4.com.kugou.shortvideoapp",
+                "paths": [ "/svopenapp/*", "/svlinks/svapp/*"]
+            }
+        ]
     }
-  }
 }
